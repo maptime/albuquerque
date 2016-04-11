@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /albuquerque
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: albuquerque
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeABQ
+  twitter: MaptimeABQ
   #disqus: YOUR DISQUS USERNAME
 
 gems:
